@@ -38,7 +38,7 @@ Output Sheet
 ### Compiliation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ML-Predictive-Analytics-Retail.git
+   git clone https://github.com/Paullitsc/ML-Predictive-Analytics-Retail.git
    cd ML-Predictive-Analytics-Retail
    ```
 
